@@ -9,7 +9,7 @@ This project is designed and coded by Team - "TINY CODERS" for the national leve
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/ABVicky/Diversion-Project/blob/main/Project%20SS/Screenshot%202024-02-04%20132355.png" alt="project-screenshot" width="1920" height="1080/">
+<img src="https://github.com/ABVicky/Diversion-Project/blob/main/Project%20SS/Screenshot%202024-02-04%20132355.png" alt="project-screenshot" width="1080" height="920/">
 
   
   
